@@ -1,0 +1,2 @@
+2022-09-01 14:26:28,579 - INFO - Function: <function GrabWeb.open_driver at 0x000001ED7B00AF70>. Args: (<class 'main_tools.selenium_scrap.GrabWeb'>, 'Firefox')
+2022-09-01 14:27:02,589 - INFO - Function: <function GrabWeb.open_driver at 0x000001ED7B00AF70>. Args: (<class 'main_tools.selenium_scrap.GrabWeb'>, 'Firefox')

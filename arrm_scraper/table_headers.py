@@ -1,0 +1,20 @@
+headers = {'Type': [],
+           'Activity ID': [],
+           'Pod': [],
+           'User': [],
+           'Station': [],
+           'FCSku': [],
+           'Time Created': [],
+           'Time Started': [],
+           'Time Ended': [],
+           'Expected Duration': [],
+           'Actual Duration': [],
+           'Terminal State': [],
+           'Terminal Reason': [],
+           'Process Path': [],
+           'Batch ID': [],
+           'SEARCH START': [],
+           'SEARCH END': [],
+           'FOUND ENTRIES': []
+           }
+
