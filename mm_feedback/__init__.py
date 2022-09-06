@@ -55,6 +55,8 @@ class Mastermind:
         GrabWeb().fill_text_area(row['container_id'], By.ID, 'defect_container')
         if self.site_id == "STOW" or self.site_id == "RECEIVE" or self.site_id == "ICQA":
             GrabWeb().fill_text_area(row['po'], By.ID, 'defect_po')
+        if self.site_id == "OB PROBLEM SOLVE":
+            GrabWeb().fill_text_area(row['po'], By.ID, 'defect_code')
         GrabWeb().fill_text_area(row['problem_asin'], By.ID, 'defect_asin')
         GrabWeb().fill_text_area(row['incorrect_quantity'], By.ID, 'defect_qty')
         GrabWeb().fill_text_area(row['violation_details'], By.ID, 'defect_comment')
