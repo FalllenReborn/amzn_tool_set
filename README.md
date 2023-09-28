@@ -1,5 +1,5 @@
 ## Amazon Data Analyst Tool Set
-_@by: Seweryn Targosz (tseweryn@amazon.com)_
+_@by: Seweryn Targosz (seweryn735@gmail.com)_
 
 ### Required modules
 
